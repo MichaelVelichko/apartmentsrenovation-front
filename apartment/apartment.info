@@ -1,0 +1,13 @@
+name = apartment
+description = The started theme for Backdrop CMS.
+version = BACKDROP_VERSION
+type = theme
+backdrop = 1.x
+
+stylesheets[all][] = css/style.css
+scripts[] = js/script.js
+
+
+project = backdrop
+version = 1
+timestamp = 100000000
